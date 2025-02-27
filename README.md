@@ -1,6 +1,6 @@
 # Bài Tập Tuần 1 - Lập Trình Di Động
 
-#câu 1: Mong muốn và định hướng 
+## câu 1: Mong muốn và định hướng 
   --> Mong muốn của tôi khi hoàn thành môn học này là nắm chắc lập trình android jeckpack compone và build 1 ứng dụng lên CHplay,cho thêm một dự án android vào CV xin việc.
   
 ## Câu hỏi 2: Tương lai lập trình di động
